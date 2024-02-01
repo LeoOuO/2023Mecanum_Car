@@ -32,15 +32,14 @@
 
 ### Machine : Chris(陳彥銘)
 
-![@自動化標線裝置-成果發表 _page-0008](https://github.com/LeoOuO/2023Mecanum_Car/assets/93064555/e74f03e7-aa0e-4abd-8e8a-bf4c929b330b)
-![@自動化標線裝置-成果發表 _page-0011](https://github.com/LeoOuO/2023Mecanum_Car/assets/93064555/436e0b35-c56a-42e8-ae3c-09654c13227f)
-![@自動化標線裝置-成果發表 _page-0012](https://github.com/LeoOuO/2023Mecanum_Car/assets/93064555/4e7fa21d-3001-4007-8f6c-42bf70bb156e)
-![@自動化標線裝置-成果發表 _page-0013](https://github.com/LeoOuO/2023Mecanum_Car/assets/93064555/9aec832d-77d5-4819-a285-4993ab4bdfcc)
-![@自動化標線裝置-成果發表 _page-0014](https://github.com/LeoOuO/2023Mecanum_Car/assets/93064555/f6214dcc-d311-42d9-836b-0678b1b5f507)
-![@自動化標線裝置-成果發表 _page-0015](https://github.com/LeoOuO/2023Mecanum_Car/assets/93064555/3416ea32-3f5a-4b17-a505-226ee8a882d9)
-![@自動化標線裝置-成果發表 _page-0016](https://github.com/LeoOuO/2023Mecanum_Car/assets/93064555/709ae090-1178-4db4-8feb-8471e5188546)
-![@自動化標線裝置-成果發表 _page-0017![@自動化標線裝置-成果發表 _page-0019](https://github.com/LeoOuO/2023Mecanum_Car/assets/93064555/33b02415-d1ae-4d37-b94b-3eac3d3d92d4)
-]
-![@自動化標線裝置-成果發表 _page-0018](https://github.com/LeoOuO/2023Mecanum_Car/assets/93064555/4c8d2f28-8acb-4aae-a56c-c2aaaba31101)
+![@自動化標線裝置-成果發表 _page-0008](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/%40%E8%87%AA%E5%8B%95%E5%8C%96%E6%A8%99%E7%B7%9A%E8%A3%9D%E7%BD%AE-%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%20_page-0008.jpg)
+![@自動化標線裝置-成果發表 _page-0011](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/%40%E8%87%AA%E5%8B%95%E5%8C%96%E6%A8%99%E7%B7%9A%E8%A3%9D%E7%BD%AE-%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%20_page-0011.jpg)
+![@自動化標線裝置-成果發表 _page-0012](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/%40%E8%87%AA%E5%8B%95%E5%8C%96%E6%A8%99%E7%B7%9A%E8%A3%9D%E7%BD%AE-%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%20_page-0012.jpg)
+![@自動化標線裝置-成果發表 _page-0013](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/%40%E8%87%AA%E5%8B%95%E5%8C%96%E6%A8%99%E7%B7%9A%E8%A3%9D%E7%BD%AE-%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%20_page-0013.jpg)
+![@自動化標線裝置-成果發表 _page-0014](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/%40%E8%87%AA%E5%8B%95%E5%8C%96%E6%A8%99%E7%B7%9A%E8%A3%9D%E7%BD%AE-%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%20_page-0014.jpg)
+![@自動化標線裝置-成果發表 _page-0015](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/%40%E8%87%AA%E5%8B%95%E5%8C%96%E6%A8%99%E7%B7%9A%E8%A3%9D%E7%BD%AE-%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%20_page-0015.jpg)
+![@自動化標線裝置-成果發表 _page-0016](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/%40%E8%87%AA%E5%8B%95%E5%8C%96%E6%A8%99%E7%B7%9A%E8%A3%9D%E7%BD%AE-%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%20_page-0016.jpg)
+![@自動化標線裝置-成果發表 _page-0017](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/%40%E8%87%AA%E5%8B%95%E5%8C%96%E6%A8%99%E7%B7%9A%E8%A3%9D%E7%BD%AE-%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%20_page-0017.jpg)
+![@自動化標線裝置-成果發表 _page-0018](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/%40%E8%87%AA%E5%8B%95%E5%8C%96%E6%A8%99%E7%B7%9A%E8%A3%9D%E7%BD%AE-%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%20_page-0018.jpg)
+![@自動化標線裝置-成果發表 _page-0019](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/%40%E8%87%AA%E5%8B%95%E5%8C%96%E6%A8%99%E7%B7%9A%E8%A3%9D%E7%BD%AE-%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%20_page-0019.jpg)
 
-![@自動化標線裝置-成果發表 _page-0019](https://github.com/LeoOuO/2023Mecanum_Car/assets/93064555/a55adb9f-4454-4e61-bf3c-6742f0f027c6)
