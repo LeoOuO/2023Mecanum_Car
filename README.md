@@ -6,7 +6,6 @@
 
 
 <img src="https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/Leo.jpg" width = "250" height = "325" alt="DownloadFile" align=center />
-
 <img src="https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/Chris.jpg" width = "250" height = "325" alt="DownloadFile" align=center />
 
 ### Programming : Leo (張存億)
