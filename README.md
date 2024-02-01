@@ -1,13 +1,19 @@
 
 # Remote Control Mecanum Car with Arduino and AppInventor
 ## Arduino_AppInventor_Project: Remote control car with Mecanum Wheels
+
+## Achievements
+![Car1](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/Car1.jpg)
+![Car2](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/Car2.jpg)
+
 ## Members
 # Programming: Leo(張存億) & Machine: Chris(陳彥銘)                      
 
 
 <img src="https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/Leo.jpg" width = "250" height = "325" alt="DownloadFile" align=center /> <img src="https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/Chris.jpg" width = "250" height = "325" alt="DownloadFile" align=center />
 
-### Programming : Leo (張存億)
+## Programming : Leo (張存億)
+
 ![投影片1](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/%E6%8A%95%E5%BD%B1%E7%89%871.PNG)
 ![投影片2](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/%E6%8A%95%E5%BD%B1%E7%89%872.PNG)
 ![投影片3](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/%E6%8A%95%E5%BD%B1%E7%89%873.PNG)
@@ -30,7 +36,7 @@
 
 
 
-### Machine : Chris(陳彥銘)
+## Machine : Chris(陳彥銘)
 
 ![@自動化標線裝置-成果發表 _page-0008](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/%40%E8%87%AA%E5%8B%95%E5%8C%96%E6%A8%99%E7%B7%9A%E8%A3%9D%E7%BD%AE-%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%20_page-0008.jpg)
 ![@自動化標線裝置-成果發表 _page-0011](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/%40%E8%87%AA%E5%8B%95%E5%8C%96%E6%A8%99%E7%B7%9A%E8%A3%9D%E7%BD%AE-%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%20_page-0011.jpg)
