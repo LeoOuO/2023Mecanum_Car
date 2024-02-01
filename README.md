@@ -5,8 +5,7 @@
 # Programming: Leo(張存億) & Machine: Chris(陳彥銘)                      
 
 
-<img src="https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/Leo.jpg" width = "250" height = "325" alt="DownloadFile" align=center />
-<img src="https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/Chris.jpg" width = "250" height = "325" alt="DownloadFile" align=center />
+<img src="https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/Leo.jpg" width = "250" height = "325" alt="DownloadFile" align=center /> <img src="https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/Chris.jpg" width = "250" height = "325" alt="DownloadFile" align=center />
 
 ### Programming : Leo (張存億)
 ![投影片1](https://github.com/LeoOuO/2023Mecanum_Car/assets/93064555/d9bea875-2086-43c2-9e38-d173e5280ac3)
