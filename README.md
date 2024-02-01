@@ -1,5 +1,5 @@
 # Remote Control Mecanum Car with Arduino and AppInventor
-##Arduino_AppInventor_Project: Remote control car with Mecanum Wheels
+## Arduino_AppInventor_Project: Remote control car with Mecanum Wheels
 
 ### Programming : Leo (張存億)
 ![投影片1](https://github.com/LeoOuO/2023Mecanum_Car/assets/93064555/d9bea875-2086-43c2-9e38-d173e5280ac3)
