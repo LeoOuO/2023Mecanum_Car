@@ -43,3 +43,5 @@
 ![@自動化標線裝置-成果發表 _page-0018](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/%40%E8%87%AA%E5%8B%95%E5%8C%96%E6%A8%99%E7%B7%9A%E8%A3%9D%E7%BD%AE-%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%20_page-0018.jpg)
 ![@自動化標線裝置-成果發表 _page-0019](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/%40%E8%87%AA%E5%8B%95%E5%8C%96%E6%A8%99%E7%B7%9A%E8%A3%9D%E7%BD%AE-%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%20_page-0019.jpg)
 
+
+![投影片20](https://github.com/LeoOuO/2023Mecanum_Car/blob/main/Pictures/%E6%8A%95%E5%BD%B1%E7%89%8720.PNG)
