@@ -1,5 +1,4 @@
 
-# include <Wire.h>
 # include <SoftwareSerial.h>
 
 //12v Input
